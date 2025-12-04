@@ -6,7 +6,7 @@
 .Main {
     height: 100vh;
     width: 100%;
-    background-color:aliceblue;
+    background-color:white;
     
 }
 
@@ -257,17 +257,144 @@ align-items: center;
     display: block;
 }
 .con8{
+    display: flex;
+    justify-content: space-between;
     height: 43vh;
     width: 100%;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
 }
 .first{
     height: 13vh;
-    width: 100%;
-    background-color: rgb(244, 186, 186);
+    width: 60%;
+    background-color: rgb(114, 176, 230);
     display: flex;
-    align-items: start;
-    justify-content: start;  
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+    padding-left: 10%;
+    gap: 4%;
+
+    
+    
+    
 }
+
+
+
+.fight{
+height: 59px;
+width: 61px;
+display: flex;
+flex-direction: column;
+align-items: self-start;
+justify-content: start;
+
+}
+
+.fight1{
+    height: 40px;
+width: 30px;
+display: flex;
+flex-direction: column;
+align-items: self-start;
+justify-content: start;
+font-family: "Inter", sans-serif;
+font-size: 15px;
+font-weight: 500;
+color: #000;
+cursor: pointer;
+
+}
+
+.bus{
+    height: 59px;
+width: 61px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.Bus1{
+     height: 40px;
+width: 30px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-family: "Inter", sans-serif;
+font-size: 15px;
+font-weight: 500;
+color: #000;
+cursor: pointer;
+}
+
+.train{
+    height: 59px;
+width: 61px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+
+.train1{
+   height: 40px;
+width: 30px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-family: "Inter", sans-serif;
+font-size: 15px;
+font-weight: 500;
+color: #000;
+cursor: pointer;  
+
+}
+
+
+.flight2{
+    height: 59px;
+width: 61px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+
+.flightin{
+height: 40px;
+width: 30px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-family: "Inter", sans-serif;
+font-size: 15px;
+font-weight: 500;
+color: #000;
+cursor: pointer;  
+
+}
+
+.first1{
+     height: 13vh;
+    width: 40%;
+    background-color: aqua;
+    display: flex;
+    
+}
+
+
 
 
 /* .paytra{
@@ -276,10 +403,8 @@ align-items: center;
     align-items: end;
 } */
 
-
 .second{
     height: 30vh;
     width: 100%;
-    background-color: coral;
+    /* background-color: coral; */
 }
-

@@ -263,7 +263,7 @@ align-items: center;
 .first{
     height: 13vh;
     width: 100%;
-    background-color: brown;
+    background-color: rgb(244, 186, 186);
     display: flex;
     align-items: start;
     justify-content: start;  

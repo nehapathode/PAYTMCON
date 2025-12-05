@@ -268,6 +268,7 @@ h3 {
 
 .con8 {
     display: flex;
+    
     justify-content: center;
     align-items: center;
     height: 43vh;
@@ -280,30 +281,33 @@ h3 {
 }
 
 .con9 {
+   justify-content: center;
     height: 43vh;
     width: 80%;
-    background-color: bisque;
-    display: flex;
-    justify-content: space-between;
+   
+}
+
+.pay{
+    height: 13vh;
+width: 100%;
+display: flex;
+
 }
 
 
 .first {
     height: 13vh;
-    width: 60%;
+    width: 80%;
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
     font-family: "Inter", sans-serif;
     font-size: 15px;
     font-weight: 500;
     color: #000;
     cursor: pointer;
-    padding-left: 2%;
     gap: 4%;
+   
 }
-
-
 
 .fight {
     height: 59px;
@@ -312,7 +316,6 @@ h3 {
     flex-direction: column;
     align-items: self-start;
     justify-content: start;
-
 }
 
 .fight1 {
@@ -408,14 +411,43 @@ h3 {
     height: 13vh;
     width: 20%;
     display: flex;
+    align-items: center;
     justify-content: flex-end;
-    align-items: flex-end;
+
 }
 
 
-.con10 {
+
+
+
+.con10{
+   height: 30vh;
+   width: 100%;
+   
+  
+} 
+.con11{
+    width: 100%;
     height: 30vh;
-    width: 80%;
-    background-color: coral;
-    align-self: center;
+    background-color: rgb(157, 189, 124);
+    border-radius: 13px;
+}
+
+.button{
+     width: 100%;
+    height: 8vh;
+    background-color: rgb(226, 174, 226);
+    display: flex;
+    
+} 
+.butt1{
+    margin-top: 17px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #000000;
 }

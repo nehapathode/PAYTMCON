@@ -6,8 +6,8 @@
 .Main {
     height: 100vh;
     width: 100%;
-    background-color:white;
-    
+    background-color: white;
+
 }
 
 .navbar {
@@ -56,7 +56,7 @@
     display: flex;
 }
 
-.con02{
+.con02 {
     width: 100%;
     height: 40vh;
     display: flex;
@@ -74,7 +74,7 @@
     cursor: pointer;
     align-items: center;
     justify-content: center;
-    
+
 }
 
 .nav {
@@ -115,8 +115,8 @@ h3 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-   
-    
+
+
 
 }
 
@@ -124,8 +124,8 @@ h3 {
     height: 74px;
     display: flex;
     flex-direction: column;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .item2 {
@@ -133,17 +133,18 @@ h3 {
     width: 124px;
     margin-right: 2%;
     margin-left: 2%;
-     display: flex;
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
+
 .item02 {
- height: 74px;
+    height: 74px;
     display: flex;
     flex-direction: column;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .item3 {
@@ -151,17 +152,18 @@ h3 {
     width: 124px;
     margin-right: 2%;
     margin-left: 2%;
-     display: flex;
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-.item03{
+
+.item03 {
     height: 74px;
     display: flex;
     flex-direction: column;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .item4 {
@@ -169,17 +171,18 @@ h3 {
     width: 124px;
     margin-right: 2%;
     margin-left: 2%;
-   display: flex;
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-.item04{
-     height: 74px;
+
+.item04 {
+    height: 74px;
     display: flex;
     flex-direction: column;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .item5 {
@@ -192,12 +195,13 @@ h3 {
     align-items: center;
     justify-content: center;
 }
-.item05{
-      height: 74px;
+
+.item05 {
+    height: 74px;
     display: flex;
     flex-direction: column;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .item6 {
@@ -210,12 +214,13 @@ h3 {
     align-items: center;
     justify-content: center;
 }
-.item06{
-     height: 74px;
+
+.item06 {
+    height: 74px;
     display: flex;
     flex-direction: column;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .con3 {
@@ -225,40 +230,46 @@ h3 {
     align-items: center;
 
 }
-.con4{
-width: 100%;
-height: 15vh;
-gap:1%;
-display: flex;
-justify-content:center;
-align-items: center;
+
+.con4 {
+    width: 100%;
+    height: 15vh;
+    gap: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
-.con5{
+.con5 {
     height: 20vh;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 1%;
-    
+
 }
-.co1 img{
+
+.co1 img {
     border-radius: 15px;
     display: block;
 }
-.co2 img{
+
+.co2 img {
     border-radius: 15px;
     display: block;
 }
-.co3 img{
+
+.co3 img {
     border-radius: 15px;
     display: block;
 }
-.con8{
+
+.con8 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     height: 43vh;
     width: 100%;
     font-family: "Inter", sans-serif;
@@ -267,144 +278,144 @@ align-items: center;
     color: #000;
     cursor: pointer;
 }
-.first{
+
+.con9 {
+    height: 43vh;
+    width: 80%;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.first {
     height: 13vh;
     width: 60%;
-    background-color: rgb(114, 176, 230);
     display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
     font-family: "Inter", sans-serif;
     font-size: 15px;
     font-weight: 500;
     color: #000;
     cursor: pointer;
-    padding-left: 10%;
+    padding-left: 2%;
     gap: 4%;
-
-    
-    
-    
 }
 
 
 
-.fight{
-height: 59px;
-width: 61px;
-display: flex;
-flex-direction: column;
-align-items: self-start;
-justify-content: start;
-
-}
-
-.fight1{
-    height: 40px;
-width: 30px;
-display: flex;
-flex-direction: column;
-align-items: self-start;
-justify-content: start;
-font-family: "Inter", sans-serif;
-font-size: 15px;
-font-weight: 500;
-color: #000;
-cursor: pointer;
-
-}
-
-.bus{
+.fight {
     height: 59px;
-width: 61px;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-}
-
-.Bus1{
-     height: 40px;
-width: 30px;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-font-family: "Inter", sans-serif;
-font-size: 15px;
-font-weight: 500;
-color: #000;
-cursor: pointer;
-}
-
-.train{
-    height: 59px;
-width: 61px;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-
-}
-
-.train1{
-   height: 40px;
-width: 30px;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-font-family: "Inter", sans-serif;
-font-size: 15px;
-font-weight: 500;
-color: #000;
-cursor: pointer;  
-
-}
-
-
-.flight2{
-    height: 59px;
-width: 61px;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-
-}
-
-.flightin{
-height: 40px;
-width: 30px;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-font-family: "Inter", sans-serif;
-font-size: 15px;
-font-weight: 500;
-color: #000;
-cursor: pointer;  
-
-}
-
-.first1{
-     height: 13vh;
-    width: 40%;
-    background-color: aqua;
+    width: 61px;
     display: flex;
-    
+    flex-direction: column;
+    align-items: self-start;
+    justify-content: start;
+
+}
+
+.fight1 {
+    height: 40px;
+    width: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+    justify-content: start;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+
+}
+
+.bus {
+    height: 59px;
+    width: 61px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Bus1 {
+    height: 40px;
+    width: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+}
+
+.train {
+    height: 59px;
+    width: 61px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.train1 {
+    height: 40px;
+    width: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+
 }
 
 
+.flight2 {
+    height: 59px;
+    width: 61px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
+}
 
-/* .paytra{
-    
+.flightin {
+    height: 40px;
+    width: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+
+}
+
+.first1 {
+    height: 13vh;
+    width: 20%;
+    display: flex;
     justify-content: flex-end;
-    align-items: end;
-} */
+    align-items: flex-end;
+}
 
-.second{
+
+.con10 {
     height: 30vh;
-    width: 100%;
-    /* background-color: coral; */
+    width: 80%;
+    background-color: coral;
+    align-self: center;
 }
